@@ -1,0 +1,15 @@
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.exe
+C:\Users\ejp39\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.deps.json
+C:\Users\ejp39\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.runtimeconfig.json
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.csproj.AssemblyReference.cache
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfoInputs.cache
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfo.cs
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.csproj.CoreCompileInputs.cache
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\refint\LaunchElectionDay.dll
+C:\Users\ejp39\source\repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\ejp39\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.genruntimeconfig.cache
+C:\Users\ejp39\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\ref\LaunchElectionDay.dll
