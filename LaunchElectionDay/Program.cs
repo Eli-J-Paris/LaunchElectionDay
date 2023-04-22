@@ -45,3 +45,5 @@ foreach (KeyValuePair<string,int> c in allCanidatesVotes)
     Console.WriteLine($"{c.Key} has {c.Value} votes");
 
 }
+
+string winner = GetWinner();

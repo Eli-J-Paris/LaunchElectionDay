@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LaunchElectionDay",
+    "\\LaunchElectionDay.UnitTests"
   ],
+  "SelectedNode": "\\LaunchElectionDay\\Candidate.cs",
   "PreviewInSolutionExplorer": false
 }
